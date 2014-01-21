@@ -65,6 +65,22 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Themes\Builder\images\clone.png" />
+    <Content Include="App_Themes\Builder\images\edit.png" />
+    <Content Include="App_Themes\Builder\images\download.png" />
+    <Content Include="App_Themes\Builder\images\featured.png" />
+    <Content Include="App_Themes\Builder\images\filesaveas.png" />
+    <Content Include="App_Themes\Builder\images\new_orange.png" />
+    <Content Include="App_Themes\Builder\images\notify\error.png" />
+    <Content Include="App_Themes\Builder\images\notify\info.png" />
+    <Content Include="App_Themes\Builder\images\notify\success.png" />
+    <Content Include="App_Themes\Builder\images\page_accept.png" />
+    <Content Include="App_Themes\Builder\images\process_accept.png" />
+    <Content Include="App_Themes\Builder\images\remove.png" />
+    <Content Include="App_Themes\Builder\images\search.png" />
+    <Content Include="App_Themes\Builder\images\starred.png" />
+    <Content Include="App_Themes\Builder\images\maintenance.png" />
+    <Content Include="App_Themes\Builder\images\tick.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
